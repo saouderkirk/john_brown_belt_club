@@ -4,4 +4,4 @@ We believe self defense is community defense, and facing an uncertain future, we
 
 The club is named after famed radical abolitionist, [John Brown](https://en.wikipedia.org/wiki/John_Brown_(abolitionist)).
 
-We partner with the folks at [Northeast Brazilian Jiu Jitsu](http://nebjja.com/home/) and support classes in Judo, Muay Thai, and Jiu Jitsu, housed in a historic farm complex in the foothills of the Adirondacks shared with the Ndakinna Education Center.
+We partner with the folks at [Northeast Brazilian Jiu Jitsu](http://nebjja.com/home/) and support classes in Judo, Muay Thai, and Jiu Jitsu, housed in a historic farm complex in the foothills of the Adirondacks, shared with the Ndakinna Education Center.
