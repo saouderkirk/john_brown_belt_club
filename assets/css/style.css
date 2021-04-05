@@ -1,1 +1,4 @@
-css goes here
+---
+---
+
+@import "{{ site.theme }}";
